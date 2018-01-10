@@ -1,0 +1,60 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "yxILEFMIwzDeTDpa8LNGPPYDYJ0=",
+			"path": "github.com/ONSdigital/down-load-test/client",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "rp2GX/h2cqMoxUQxENfN8gH7ZEw=",
+			"path": "github.com/ONSdigital/down-load-test/config",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "zgQXB6EtoNdvUCvMjxA6U9cfDDI=",
+			"path": "github.com/ONSdigital/go-ns/clients/clientlog",
+			"revision": "a7bfc7fcc7219d4ea390112a454749e6fdd3dc21",
+			"revisionTime": "2017-12-12T11:06:22Z"
+		},
+		{
+			"checksumSHA1": "14UTvxZ+UDwGqWbmO4jmojzzIUM=",
+			"path": "github.com/ONSdigital/go-ns/clients/filter",
+			"revision": "a7bfc7fcc7219d4ea390112a454749e6fdd3dc21",
+			"revisionTime": "2017-12-12T11:06:22Z"
+		},
+		{
+			"checksumSHA1": "AjbjbhFVAOP/1NU5HL+uy+X/yJo=",
+			"path": "github.com/ONSdigital/go-ns/log",
+			"revision": "a7bfc7fcc7219d4ea390112a454749e6fdd3dc21",
+			"revisionTime": "2017-12-12T11:06:22Z"
+		},
+		{
+			"checksumSHA1": "Ohl8JaJRUL+/Y+NTL8y97PZlFfs=",
+			"path": "github.com/ONSdigital/go-ns/rhttp",
+			"revision": "a7bfc7fcc7219d4ea390112a454749e6fdd3dc21",
+			"revisionTime": "2017-12-12T11:06:22Z"
+		},
+		{
+			"checksumSHA1": "hBgLmZ/4mCxmnH88mqFKBkpJFUY=",
+			"origin": "github.com/ONSdigital/go-ns/vendor/github.com/mgutz/ansi",
+			"path": "github.com/mgutz/ansi",
+			"revision": "a7bfc7fcc7219d4ea390112a454749e6fdd3dc21",
+			"revisionTime": "2017-12-12T11:06:22Z"
+		},
+		{
+			"checksumSHA1": "rJab1YdNhQooDiBWNnt7TLWPyBU=",
+			"path": "github.com/pkg/errors",
+			"revision": "c605e284fe17294bda444b34710735b29d1a9d90",
+			"revisionTime": "2017-05-05T04:36:39Z"
+		},
+		{
+			"checksumSHA1": "fRgp9UZPllOlkPssv7frzQx4z9A=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "287cf08546ab5e7e37d55a84f7ed3fd1db036de5",
+			"revisionTime": "2017-11-16T09:02:43Z"
+		}
+	],
+	"rootPath": "github.com/ONSdigital/dp-filter-down-load-test"
+}

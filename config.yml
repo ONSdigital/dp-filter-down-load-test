@@ -1,0 +1,13 @@
+filter-api-host: "http://localhost:22100"
+filters:
+  - "filter1.json"
+  - "filter2.json"
+  - "filter3.json"
+  - "filter4.json"
+  - "filter5.json"
+  - "filter6.json"
+  - "filter7.json"
+  - "filter8.json"
+  - "filter9.json"
+  - "filter10.json"
+instanceID: "b389bab6-86a7-4773-9b5a-2149c9f08564"

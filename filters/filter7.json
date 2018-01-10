@@ -1,0 +1,32 @@
+{
+  "dimensions": [
+    {
+      "name": "geography",
+      "values": [
+        "E06000001"
+      ],
+      "ids": null
+    },
+    {
+      "name": "sex",
+      "values": [
+        "2"
+      ],
+      "ids": null
+    },
+    {
+      "name": "time",
+      "values": [
+        "2016"
+      ],
+      "ids": null
+    },
+    {
+      "name": "age",
+      "values": [
+        "18"
+      ],
+      "ids": null
+    }
+  ]
+}
